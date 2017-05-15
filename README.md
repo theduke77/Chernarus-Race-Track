@@ -13,7 +13,7 @@ http://tinypic.com/r/x6dls3/9
 
 http://tinypic.com/r/11gt9g6/9
 
-It is Located South West of Chernarus, West of Kamenka
+It is Located South West of Chernarus. About 500m North West of Pavlovo.
 
 There are some ambient sounds around the track, if you dont like it, search in the code for sounds and delete the block of code associated with it.
 

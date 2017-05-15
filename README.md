@@ -15,6 +15,8 @@ http://tinypic.com/r/11gt9g6/9
 
 It is Located South West of Chernarus. About 500m North West of Pavlovo.
 
+You'll need epoch and overwatch for this.
+
 There are some ambient sounds around the track, if you dont like it, search in the code for sounds and delete the block of code associated with it.
 
 Also.  We had custom billboards at the entrance of the racetrack.  They are commented out in this script im posting (at the bottom of the script).  You can make your own texture and uncomment them and change the paths 
